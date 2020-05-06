@@ -11,7 +11,7 @@ Va na pagina inicial do [Firebase](https://firebase.google.com/) e vá em "Prime
 Crie um novo projeto  
 Depois preencha todos os campos para criar um novo Projeto   
 
-![Primeiros Passos](./Firenode/imf1.png "Primeiros Passos")
+![Primeiros Passos](./Firenode/imf1.png =500x "Primeiros Passos")
 ![Novo Projeto](./Firenode/img2.png "Novo Projeto")
 ![Cadastrando Projeto](./Firenode/img3.png "Cadastrando Projeto ")
 ![Cadastrando Projeto](./Firenode/img4.png "Cadastrando Projeto ")
